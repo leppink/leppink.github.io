@@ -1,11 +1,6 @@
 ---
-layout: none
-permalink: /cv/
+layout: page
+permalink: /assets/pdf/Resume_Chaudhry.pdf
 title: cv
-nav: false
-nav_order: 5
-cv_pdf: Leppink_CV.pdf # you can also use external links here
-description: 
-toc:
-  sidebar: left
+nav: true
 ---
