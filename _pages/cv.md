@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/Resume_Chaudhry.pdf
+permalink: /assets/pdf/Leppink_CV.pdf
 title: cv
 nav: true
 ---
