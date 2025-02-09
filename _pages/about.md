@@ -31,4 +31,4 @@ During my Ph.D., I designed and installed a new diagnostic on DII-D, a high-fiel
 
 I am interested in the application of scientific machine learning techniques and Bayesian-based data analysis to build optimized RF systems for fusion energy and to better understand the physics of these systems when they are deployed. See my [Google Scholar](https://scholar.google.com/citations?user=RwWDvX0AAAAJ&hl=en) or [CV](https://leppink.github.io/assets/pdf/Leppink_CV.pdf) for recent publications and feel free to reach out via email if you are interested in working together.
 
-Outside of work, I enjoy cycling (follow me on Strava!), surfing with friends, and scouring whichever city I am in for the sushi with the highest quality/price ratio.
+Outside of work, I enjoy cycling (follow me on [Strava](https://www.strava.com/athletes/121797180)!), surfing with friends, and scouring whichever city I am in for the sushi with the highest quality/price ratio.
