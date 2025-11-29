@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Leppink_CV.pdf";
+            window.location.href = "/assets/pdf/Leppink_CV_Nov2025.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
